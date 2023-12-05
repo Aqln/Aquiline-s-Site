@@ -38,12 +38,14 @@ a {
   th {
   
     border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(64, 108, 146, 0.603)
   
   }
   
   td {
   
   border: 1px solid rgb(255, 255, 255);
+  background-color: rgb(64, 108, 146, 0.603)
   
   }
 
