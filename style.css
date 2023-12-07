@@ -7,6 +7,7 @@
     -webkit-backdrop-filter: blur(5.5px);
     border-radius: 17px;
     border: 3px solid white;
+    font-size: large;
 
 }
 
@@ -19,6 +20,7 @@
     border-radius: 17px;
     border: 3px solid white;
     box-shadow: 0 15px 100px rgba(5, 5, 5, 0.116);
+    font-size: large;
 
 }
 
@@ -32,7 +34,7 @@ a {
 
   -webkit-text-size-adjust: auto;
   color: #ffffff;
-  
+
   }
   
   th {
@@ -40,6 +42,7 @@ a {
     border-radius: 7px;
     border: 1px solid rgb(255, 255, 255);
     background-color: rgba(64, 108, 146, 0.603);
+    font-size: larger;
   
   }
   
@@ -47,7 +50,8 @@ a {
 
   border-radius: 7px;
   border: 1px solid rgb(255, 255, 255);
-  background-color: rgb(64, 108, 146, 0.603)
-  
+  background-color: rgb(64, 108, 146, 0.603);
+  font-size: larger;
+
   }
 
