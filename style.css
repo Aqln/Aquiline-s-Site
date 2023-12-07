@@ -12,7 +12,6 @@
 
 .s{
   
-    -webkit-text-size-adjust: auto;
     color: #ffffff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     backdrop-filter: blur(5.5px);
@@ -25,40 +24,30 @@
 
 a {
 
-    color:#ffffff;
+  color:#ffffff;
   
   }
   
   table {
-  
+
+  -webkit-text-size-adjust: auto;
   color: #ffffff;
   
   }
   
   th {
-  
+
+    border-radius: 7px;
     border: 1px solid rgb(255, 255, 255);
     background-color: rgba(64, 108, 146, 0.603);
   
   }
   
   td {
-  
+
+  border-radius: 7px;
   border: 1px solid rgb(255, 255, 255);
   background-color: rgb(64, 108, 146, 0.603)
   
   }
-
-  *{
-    box-sizing: border-box;
-    /* border: 1px solid #000; */
-}
-.container{
-    width: 1200px;
-    margin: auto;
-}
-
-#burger, [for=burger]{
-    display: none;
-}
 
