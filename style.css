@@ -21,6 +21,7 @@
     border: 3px solid white;
     box-shadow: 0 15px 100px rgba(5, 5, 5, 0.116);
     font-size: large;
+    text-decoration: none;
 
 }
 
@@ -34,6 +35,7 @@ a {
 
   -webkit-text-size-adjust: auto;
   color: #ffffff;
+  text-decoration: none;
 
   }
   
@@ -43,6 +45,7 @@ a {
     border: 1px solid rgb(255, 255, 255);
     background-color: rgba(64, 108, 146, 0.603);
     font-size: larger;
+    text-decoration: none;
   
   }
   
@@ -52,6 +55,7 @@ a {
   border: 1px solid rgb(255, 255, 255);
   background-color: rgb(64, 108, 146, 0.603);
   font-size: larger;
+  text-decoration: none;
 
   }
 
